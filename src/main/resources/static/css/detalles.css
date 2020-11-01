@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.detallito{
+	background-color: #008000;
+	padding: 30px;
+	width:100%;
+}
+.detallito1{
+	width: 100%;
+	height: 135px;
+}
+header{
+	background-color: #99FF33;
+	padding:30px;
+}
+#h1{
+	font-family:Lucida Console;
+	text-align: center;
+	color: #FFFFFF;
+}
+#menu-bar{
+	background-color: #0000FF;
+}
